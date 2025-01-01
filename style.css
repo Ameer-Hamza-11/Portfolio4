@@ -774,8 +774,9 @@ text-align: center;
 
 @media (max-width:550px) {
     .nav1{
-        background: url(images/Herobg.jpg) no-repeat 70% center;
+        background: url(images/Herobg.jpg) no-repeat 100% center;
         height: auto;
+        background-color: #f6d365;
     }
     .herosection h1{
         font-size: 45px;
