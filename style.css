@@ -773,6 +773,9 @@ text-align: center;
 
 
 @media (max-width:550px) {
+    body{
+        background-color: #f6d365;
+    }
     .nav1{
         background: url(images/Herobg.jpg) no-repeat 100% center;
         height: auto;
