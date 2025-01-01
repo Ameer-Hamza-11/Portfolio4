@@ -775,10 +775,10 @@ text-align: center;
 @media (max-width:550px) {
     .nav1{
         background: url(images/Herobg.jpg) no-repeat 70% center;
-        height: 100vh;
+        height: auto;
     }
     .herosection h1{
-        font-size: 48px;
+        font-size: 45px;
     }
     .herosection p{
         font-size: 14px;
